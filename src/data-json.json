@@ -1,0 +1,31 @@
+[{
+                  "id": 0,
+                  "title":"Brutalist Architecture and the Human Response",
+                  "image": "image1.jpg",
+                  "category": "Completed",
+                  "dueDate":"6",
+                  "progressRate":"80",
+                  "description":"Learn the secret of the hand model industry in this 4 part course. Here's some more text and some more."
+  },
+  {
+                    "id": 1,
+                    "title":"Surfing Safety",
+                    "image": "image2.jpg",
+                    "category": "Completed",
+                    "dueDate":"",
+                    "progressRate":"20",
+                    "description":"Stay safe while getting barreled this summer. We'll look at wave etiquite, how to rock-off safely and how to properly secure your umbrella."
+    },
+    {
+                      "id": 2,
+                      "title":"Delicious Berries",
+                      "image": "image3.jpg",
+                      "category": "Completed",
+                      "dueDate":"",
+                      "progressRate":"95",
+                      "description":"Everyone loves berries, so let's learn about strawberries, raspberries, gooseberries and Huckleberry Finn."
+      }
+
+
+
+]

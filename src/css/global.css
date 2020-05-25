@@ -1,0 +1,19 @@
+/** PRIMARY COLOR VARIABLES **/
+:root {
+  --primary-color: #446cfc;
+  --secondary-color: #0D34C0;
+  --light-grey-color:#F0F1F3;
+  --gray-color:#B8C0C7;
+  --white-color:#FFFFFF;
+  --green-color:#00E6C0;
+  --black-color:#0F171F;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto;
+  background: #FFF;
+}
