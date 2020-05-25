@@ -1,7 +1,10 @@
 # create
 
+ 
+
 ## Project setup
 ```
+Download the source or clone the project and run the command 
 npm install
 ```
 
